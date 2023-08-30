@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la $(pwd) $(readlink -f ..) /boot
+ls -al . .. /boot
